@@ -65,3 +65,12 @@
 20230626	07:55:24	2b644efc-b26e-437a-baf3-08ef1630b92f	/new-page.html	GET
 20230626	07:55:24	bae0938f-bf18-4fce-91d6-84b7f7a09fc9	/img/computer4.jpg	GET
 20230626	07:55:24	1b5340ab-16a9-4fc4-bce1-ae31a5ddc9e3	/css/style.css	GET
+20230628	05:32:54	4e22872e-2181-44ee-b9e3-a982090054d0	GET	undefined	/
+20230628	05:32:54	f340183b-5130-4ebf-9827-0363efe23b22	GET	undefined	/favicon.ico
+20230628	05:32:57	e5ea7ef9-a13a-46e0-bde5-6f1ef622c8bd	GET	undefined	/
+20230628	05:32:57	bcb8b128-774f-4a80-857d-0fd3b51c4b76	GET	undefined	/favicon.ico
+20230628	05:33:56	570bd61e-dcde-4235-95c9-01e99a3236b1	GET	undefined	/
+20230628	05:33:56	bff188c9-cca3-49c6-9f32-f01fdd79ac04	GET	undefined	/css/style.css
+20230628	05:33:56	23451c1d-f7d7-46aa-9d5b-fe3cbf6b4681	GET	undefined	/favicon.ico
+20230628	05:34:07	1ee87fe8-5235-4d1d-a5cf-de2f5c79cae1	GET	undefined	/mhlael
+20230628	05:34:07	68f78a04-5192-457d-b613-0f63f78b048a	GET	undefined	/css/style.css
